@@ -28,7 +28,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a senior staff scientist at the [Laboratories of Cognitive Neuroscience](https://research.childrenshospital.org/research-units/laboratories-cognitive-neuroscience-research) at Boston Children's Hospital. I received my Ph.D. in Communication Sciences and Disorders and completed a postdoctoral fellowship in Developmental Cognitive Psychology at Northwestern University.
+I am a senior staff scientist at Boston Children's Hospital's [Laboratories of Cognitive Neuroscience](https://research.childrenshospital.org/research-units/laboratories-cognitive-neuroscience-research). I received my Ph.D. in Communication Sciences and Disorders and completed a postdoctoral fellowship in Developmental Cognitive Psychology at Northwestern University.
 
 I am interested in the biology of learning, and how life experiences shape our perception of and interactions with the world around us. My research projects include: 1) how children use temporal rhythmic cues to make sense of speech and music, 2) how participant- and training-related factors influence auditory learning, 3) how infants learn to identify the sounds that are "for them" and use these sounds for thinking and reasoning, and 4) early biopsychosocial predictors of language development.
 
