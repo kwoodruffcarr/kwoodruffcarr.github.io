@@ -8,9 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <div class="social"><div class="contact-icons" style="font-size: 1.4rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.7rem; margin-top: 0.75rem;">
+    <a href="mailto:kali.woodruffcarr@childrens.harvard.edu" title="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://orcid.org/0000-0002-3142-0476" title="ORCID" rel="external nofollow noopener" target="_blank"><i class="ai ai-orcid"></i></a>
+    <a href="https://scholar.google.com/citations?user=EKWqDbwAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/kwoodruffcarr" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://x.com/drkaligator" title="X" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="https://bsky.app/profile/kaliwoodruffcarr.bsky.social" title="Bluesky" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-bluesky"></i></a>
+    </div></div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
