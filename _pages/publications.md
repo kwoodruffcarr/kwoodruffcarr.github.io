@@ -18,7 +18,7 @@ Find all of my papers on [Google Scholar](https://scholar.google.com/citations?u
 
 {% bibliography %}
 
-<h2 class="bibliography">Registered reports, preregistrations &amp; preprints</h2>
+<h3>Registered reports, preregistrations &amp; preprints</h3>
 
 <p>Kosie, J.E., Zettersten, M., … <strong>Woodruff Carr, K.</strong>, … Lew-Williams, C. (Stage 1 Registered Report) ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. <em>Nature Human Behaviour</em>. <a href="https://psyarxiv.com/ck3vd">Preprint</a></p>
 
