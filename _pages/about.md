@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Staff Scientist · Boston Children's Hospital
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior staff scientist at the [Laboratories of Cognitive Neuroscience](https://research.childrenshospital.org/research-units/laboratories-cognitive-neuroscience-research) at Boston Children's Hospital. I received my Ph.D. in Communication Sciences and Disorders at Northwestern University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in the biology of learning, and how life experiences shape our perception of and interactions with the world around us. My research projects include: 1) how children use temporal rhythmic cues to make sense of speech and music, 2) how participant- and training-related factors influence auditory learning, 3) how infants learn to identify the sounds that are "for them" and use these sounds for thinking and reasoning, and 4) early biopsychosocial predictors of language development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I use EEG and behavioral measures to study learning across the lifespan. My current work is funded by an [NIH NIDCD R21](https://reporter.nih.gov/project-details/11030506) and the Jacobs Foundation [LEVANTE network](https://levante-network.org/).
+
+**Email:** kali (dot) woodruffcarr (at) childrens (dot) harvard (dot) edu
