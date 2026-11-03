@@ -2,12 +2,13 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Find all of my papers on <a href="https://scholar.google.com/citations?user=EKWqDbwAAAAJ">Google Scholar</a>.
 nav: true
 nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
+
+Find all of my papers on [Google Scholar](https://scholar.google.com/citations?user=EKWqDbwAAAAJ).
 
 <!-- Bibsearch Feature -->
 
